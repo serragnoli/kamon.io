@@ -34,6 +34,10 @@ guides:
     pages:
       - name: Migrating from 0.6 to 1.0
         path: /guides/migration/from-0.6-to-1.0/
+  - topic: Prometheus
+    pages:
+      - name: Quick start
+        path: /guides/prometheus/tutorial-with-important-concepts/
 
 instrumentation:
   - topic: Available Instrumentation
